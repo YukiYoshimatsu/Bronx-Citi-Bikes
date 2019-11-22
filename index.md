@@ -3,7 +3,7 @@
 
 [Mott Haven](https://ivybirch.github.io/Honors-Bike-Website-Test/)
 
-[Morisania](https://yukioshimatsu.github.io/morrisania_neighborhood)
+[Morrisania](https://yukiyoshimatsu.github.io/morrisania_neighborhood)
 
 [Port Morris](http://caseywalsh22.github.io/HC1-Neighborhood)
 
