@@ -3,11 +3,11 @@
 
 
 
-Mott Haven:
+[Mott Haven](https://ivybirch.github.io/Honors-Bike-Website-Test/)
 
 
 
 
-[Morisania] (yukioshimatsu.github.io/morrisania_neighborhood/ "Morisania")
+[Morisania](https://yukioshimatsu.github.io/morrisania_neighborhood)
 
 
