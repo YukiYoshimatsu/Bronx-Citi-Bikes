@@ -1,6 +1,5 @@
-#                                             Citi Bike Project
-###                                                   The Bronx
-[The Bronx](https://ivybirch.github.io/Bronx-Citi-Bikes)
+#                                             Citi Bike Project                                           
+### [The Bronx](https://ivybirch.github.io/Bronx-Citi-Bikes)
 
 [Mott Haven](https://ivybirch.github.io/Honors-Bike-Website-Test/)
 
