@@ -7,7 +7,10 @@
 
 [Port Morris](http://caseywalsh22.github.io/HC1-Neighborhood)
 
-
+***
+<script src="https://embed.github.com/view/geojson/YukiYoshimatsu/Bronx-Citi-Bikes/master/morrisania_map.geojson"></script>
+<script src="https://embed.github.com/view/geojson/IvyBirch/Bronx-Citi-Bikes/master/morrisania_map.geojson"></script>
+***
 
 Current Requirements:	
 - Add info on why we chose our stations	
