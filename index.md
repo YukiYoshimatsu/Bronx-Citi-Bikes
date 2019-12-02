@@ -1,5 +1,5 @@
-#                                             Citi Bike Project                                           
-###                                              The Bronx
+# Citi Bike Project                                           
+### The Bronx
 
 [Mott Haven](https://ivybirch.github.io/Honors-Bike-Website-Test/)
 
