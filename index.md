@@ -10,8 +10,9 @@
 ***
 <script src="https://embed.github.com/view/geojson/IvyBirch/Bronx-Citi-Bikes/master/combined_geo.geojson"></script>
 ***
+<script src="https://embed.github.com/view/geojson/IvyBirch/Bronx-Citi-Bikes/master/nyc_citibike_base.geojson"></script>
+***
 
 Current Requirements:	
 - Add info on why we chose our stations	
 - Embed expanded proposal maps on our individual sites	
-- Embed map of current citi bikes on this page	
