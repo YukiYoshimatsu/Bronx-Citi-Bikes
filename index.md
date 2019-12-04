@@ -1,7 +1,9 @@
 
 
- # Citi Bike Project                                           
- ### The Bronx
+ #Citi Bike Project                                           
+ ###The Bronx
+
+Each of these individual sites repersents a group members work on a specific neighborhood in the bronx, explaining what citi bike stations they reccomend and why they reccomend them.
 
  [Mott Haven](https://ivybirch.github.io/Honors-Bike-Website-Test/)
 
@@ -15,3 +17,9 @@
 
 
 
+
+
+Made by:
+Casey Walsh
+Yusef Wray
+Ivy Birchall
