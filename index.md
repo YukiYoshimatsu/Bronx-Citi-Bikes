@@ -12,9 +12,12 @@ Each of these individual sites repersents a group members work on a specific nei
  [Morrisania](https://yukiyoshimatsu.github.io/morrisania_neighborhood)
  ######Created by Yusef Wray
 
- [Port Morris](http://caseywalsh22.github.io/HC1-Neighborhood)
- 
+ [Port Morris](http://caseywalsh22.github.io/HC1-Neighborhood) 
  ###### Created by Casey Walsh
+ 
+ 
+ Example of the content included on individual sites:
+ 
  * Port Morris is an industrial neighborhood in the South Bronx
  * Most CitiBike locations were selected based on proximity to schools, stores, bus stops, event venues, and major intersections
  * The addition of CitiBike's to this neighborhood would improve trasnit, because there are very few bus stops and no subway stops
@@ -49,7 +52,7 @@ On our individual maps, the region of our neighborhood was marked with a polygon
 Below is a merged version of all of our CitiBike proposed locations as one GeoJson map:
 
  ***
- <script src="https://embed.github.com/view/geojson/IvyBirch/Bronx-Citi-Bikes/master/combined_geo.geojson"></script>
+ <script src="https://embed.github.com/view/geojson/IvyBirch/Bronx-Citi-Bikes/master/map (6).geojson	"></script>
  ***
 
 
