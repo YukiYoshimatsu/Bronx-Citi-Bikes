@@ -63,18 +63,18 @@ The goal of our project was to propose two station locations for each region and
 
 Mott Haven:
 
-![Image of Mott Haven Neighborhood](https://github.com/YukiYoshimatsu/morrisania_neighborhood/mott_highlight.png)
-![Image of Mott Haven Grid Map](https://github.com/YukiYoshimatsu/morrisania_neighborhood/mott_grid.png)
+![Image of Mott Haven Neighborhood](mott_highlight.png)
+![Image of Mott Haven Grid Map](mott_grid.png)
 
 Morrisania:
 
-![Image of Morrisania Neighborhood](https://github.com/YukiYoshimatsu/morrisania_neighborhood/mor_border.png)
-![Image of Morrisania Grid Map](https://github.com/YukiYoshimatsu/morrisania_neighborhood/mor_grid.png)
+![Image of Morrisania Neighborhood](mor_border.png)
+![Image of Morrisania Grid Map](mor_grid.png)
  
 Port Morris:
 
-![Image of Port Morris Neighborhood](https://github.com/caseywalsh22/HC1-Neighborhood/bettergooglemaps.png)
-![Image of Port Morris Grid Map](https://github.com/caseywalsh22/HC1-Neighborhood/actualfinalgooglemaps.png)
+![Image of Port Morris Neighborhood](port_border.png)
+![Image of Port Morris Grid Map](port_grid.png)
 
 
 ##### Use of GeoJson
@@ -89,13 +89,16 @@ Below is a merged version of all of our CitiBike proposed locations as one GeoJs
 ##### Voronoi Map
 Below is a merged version of our Voronoi Map:
 
-![Image of Voronoi Map](https://github.com/YukiYoshimatsu/Bronx-Citi-Bikes/combined_vor.png)
+![Image of Voronoi Map](combined_vor.png)
 
 Station Legend (Colors)
 
 Orange : Mott Haven
+
 Red : Morrisania
+
 Purple : Port Morris
+
 Grey : Already Existing
 
 ***
