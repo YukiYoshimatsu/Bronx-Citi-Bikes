@@ -89,7 +89,7 @@ Below is a merged version of all of our CitiBike proposed locations as one GeoJs
 ##### Voronoi Map
 Below is a merged version of our Voronoi Map:
 
-![Image of Voronoi Map](https://github.com/YukiYoshimatsu/Bronx-Citi-Bikes/master/combined_vor.png)
+![Image of Voronoi Map](https://github.com/YukiYoshimatsu/Bronx-Citi-Bikes/blob/master/combined_vor.png "vor")
 
 Station Legend (Colors)
 
