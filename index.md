@@ -15,8 +15,30 @@ Each of these individual sites represents a group member's work on a specific ne
 ###### Created by Casey Walsh
 
 ##### Mott Haven
+* Mott Haven is a residential neighborhood in the South Bronx area. 
+* Proposed station locations were placed near major avenues and streets (3rd Ave), train stations, parks, green areas, and hospitals.
+* Citibike service in the neighborhood would grant a more eceonomically viable mode of transportation for residents.
+
+* Mott Haven has a total population of 52,413; ~72.3% Latinx, ~24.7 Black, ~1.7% White, ~0.8% Other, ~0.4% Asian, 0.2% Native American.
+
+* Citibikes in Mott Haven would provide a cost effective mode of transportation in areas which lack reliable or affordable service.
+* Mott Haven has minimal public transport, with only a single train line accessible. 
+* Bikes allow for easier movement towards connections, hence the placement of stations near public transport pick up/dropoff points.
 
 ##### Morrisania
+* Morrisania is a primarily working class residential neighborhood in the South Bronx.
+* Proposed Citibike locations were generally placed near concentrated residential areas, education centers, clusters of private businesses, public services and recreational activities.
+* The introduction of Citibike service to Morrisania would reduce reliance on private automobiles and encourage the use of public transportation.
+
+* Morrisania has a total population of 73,263.
+* Of this population, ~53% of residents are female, ~47% are male. The majority of residents are Black or African American (~45%); followed by ~ Some Other Race, ~10% White, ~2.7% Two or More Races, ~0.8 Native American or Alaska Native, and ~0.5 Asian.
+* The majority of residents are middle-aged (35-65 years old), however, the age distribution places similarly sized populations within all age groups other than 65 and Above. Of all residents: ~31% are Under 18 Years, ~26% are 18 to 34 Years, ~35% are 35 to 64 Years, and ~8% are 65 and Above. 
+* The majority of adults have only recieved Some High School as their highest form of formal education. A slightly smaller number of adults have recieved a High School Diploma (or Equivalent) or Some College (or Associate's Degree).
+* Morriania covers 148 acres of land.
+
+* CitiBikes in Morrisania would reduce commuter wait-times, allow for a cheaper and more enviromentially-friendly alternative mode of transportation and reduce congestion along bus lines in more congested areas.
+* This neighborhood possesses many MTA bus lines, however, aside from the Melrose Station, no train service is directly available to the residents. 
+* Citibike would allow residents to utilize a transportation service other than the existing MTA bus routes to travel to other areas within the neighborhood or other MTA connections. 
  
 ##### Port Morris 
 * Port Morris is an industrial neighborhood in the South Bronx.
@@ -65,9 +87,12 @@ Below is a merged version of all of our CitiBike proposed locations as one GeoJs
 ***
 
 ##### Voronoi Map
+Below is a merged version of our Voronoi Map:
+
 ![Image of Voronoi Map](https://github.com/YukiYoshimatsu/Bronx-Citi-Bikes/blob/master/combined_vor.png)
 
 Station Legend (Colors)
+
 Orange : Mott Haven
 Red : Morrisania
 Purple : Port Morris
