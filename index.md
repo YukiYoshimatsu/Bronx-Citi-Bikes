@@ -7,10 +7,10 @@
 Each of these individual sites repersents a group members work on a specific neighborhood in the Bronx, explaining what CitiBike stations they reccomend and why they reccomend them. Each team member conducted their own individual research on their own neighborhood, and used GeoJson to create a map with color coded markers for their first and second choices for CitiBike loctions within a 1,000 square foot grid. Together, they cover the South Bronx neighborhoods and what CitiBike expansion may look like. 
 
  [Mott Haven](https://ivybirch.github.io/Honors-Bike-Website-Test/)
- ######Created by Ivy Birchall
+ ###### Created by Ivy Birchall
 
  [Morrisania](https://yukiyoshimatsu.github.io/morrisania_neighborhood)
- ######Created by Yusef Wray
+ ###### Created by Yusef Wray
 
  [Port Morris](http://caseywalsh22.github.io/HC1-Neighborhood) 
  ###### Created by Casey Walsh
